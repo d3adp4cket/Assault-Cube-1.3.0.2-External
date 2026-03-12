@@ -1,0 +1,43 @@
+# Visual Studio / .NET Core
+[Oo]bj/
+[Bb]in/
+[Dd]ist/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]uild/
+bld/
+[Bb]inaries/
+[Oo]utput/
+
+# Mac / OS X
+.DS_Store
+
+# ReSharper / JetBrains
+_ReSharper*/
+*.[Rr]eSharper
+*.DotSettings.user
+
+# Visual Studio Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio
+.localhistory/
+
+# Crash dumps
+crash.log
