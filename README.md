@@ -2,7 +2,7 @@
 
 A lightweight, purely external C# trainer for Assault Cube 1.3.0.2.
 
-![Menu Preview](screenshot.png)
+![Menu Preview](Screenshot.png)
 
 ## Features
 
